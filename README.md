@@ -1,2 +1,2 @@
 # ANTIGRAVITY-COMPUTER-USE
-一个类CODEX的COMPUTER USE插件
+一个类CODEX的COMPUTER USE插件，可以在AI操作电脑时在桌面提示用户。具体的安装方式见文件夹中的README
